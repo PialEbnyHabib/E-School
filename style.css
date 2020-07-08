@@ -69,7 +69,8 @@
 
  }
  .boxicon:hover{
-     box-sizing: 200px;
+     background-color: rgb(255, 255, 255);
+     box-shadow: 5px 5px  30px #aaa8a8;
  }
 
 
@@ -93,12 +94,14 @@
      box-shadow: 1px 1px 20px rgb(226, 224, 224);
      border: none;
      border-radius: 30px;
+     padding: 1%;
+     margin: 2%;
  }
 
  .card-img-top{
      padding: 20px 20px;
  }
-
+  
  .buycourse{
 
     height: 40px;
@@ -135,3 +138,51 @@
  .comment{
      float: left;
  }
+
+ .Bonus{
+     padding-top: 50px;
+     padding-bottom: 80px;
+ }
+
+ .offer{
+     box-shadow: 2px 2px 25px rgb(230, 227, 227);
+     padding: 20px  40px;
+     margin: 2px
+ }
+ .offer:hover{
+     background-color: #F0FFF0;
+ }
+
+ .exstudent{
+     padding: 4%;
+     margin: 2px;
+ }
+
+
+ .footer{
+     background-color: #282531;
+     color: white;
+ }
+
+ .listcol{
+
+    margin-top: 50px;
+ }
+ .listforfoot{
+     list-style: none;
+     font-size: 17px;
+     margin-top: 55px;
+     color: white;
+     
+    
+ }
+ .listforfoot li{
+     padding-top: 8px;
+ }
+
+ .listforfoot li a {
+     text-decoration: none;
+     color: white;
+     
+ }
+
