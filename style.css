@@ -1,0 +1,137 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.toppart{
+    background-color: #F0FFF0;
+}
+
+.nav{
+
+    background-color:#F0FFF0;
+    height: 130px;
+}
+
+.item{
+
+    padding-top: 30px;
+}
+.nav-link{
+    font-size: 18px;
+    float: left;
+    position: relative;
+    left: 600px;
+    padding-right: 20px;
+    color: rgb(36, 35, 35);
+}
+
+.singbutton{
+    background:#21B573;
+    padding: 10px 25px;
+    border-radius: 30px;
+    margin-left: 20px;
+    color:white;
+    font-weight: 300;
+    transition:.4s;
+}
+
+.getstarted{
+    height: 50px;
+    width: 150px;
+    border-radius: 40px;
+    background-color:#21B573 ;
+    color: white;
+}
+.covertext{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 40px;
+}
+
+.covertext p {
+    font-size: 15px;
+}
+
+
+ .iconpart{
+     padding-top: 50px;
+    height: auto;
+    padding-bottom: 100px;
+ }
+
+ .boxicon{
+
+   padding-top: 100px;
+   background-color:#F8FFFB ;
+
+ }
+ .boxicon:hover{
+     box-sizing: 200px;
+ }
+
+
+ .imgpart{
+     height: auto;
+     padding-bottom: 100px;
+
+ }
+
+ .imgheading{
+     text-align: center;
+     font-size: 35px;
+     font-weight: 700;
+     color: rgb(59, 58, 58);
+     padding-bottom: 50px;
+ }
+
+
+   
+ .card{
+     box-shadow: 1px 1px 20px rgb(226, 224, 224);
+     border: none;
+     border-radius: 30px;
+ }
+
+ .card-img-top{
+     padding: 20px 20px;
+ }
+
+ .buycourse{
+
+    height: 40px;
+    width: 150px;
+    border-radius: 40px;
+    background-color:#21B573 ;
+    color: white;
+    font-size: 15px;
+
+ }
+
+ .courseinfo{
+     padding-top: 20px;
+     font-size: 15px;
+     float: left;
+ }
+
+ #seats{
+     position: relative;
+     left: 80px;
+ }
+
+
+
+ .Testimonial{
+
+    height:auto;
+    padding-bottom: 100px;
+ }
+
+ .commentpart{
+     text-align: center;
+ }
+ .comment{
+     float: left;
+ }
